@@ -143,3 +143,5 @@ minikube delete
 * Deployed an Nginx app using a Kubernetes **Deployment**
 * Exposed it through a **Service (NodePort)**
 * Scaled and verified your deployment
+---
+<img width="1066" height="740" alt="Screenshot 2025-11-03 214324" src="https://github.com/user-attachments/assets/0227584b-9a76-4987-9648-cb9c77bb3b81" />
